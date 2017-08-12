@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research - Project 1"
-output: github_document
+output: html_document
 ---
 
 ##Loading and preprocessing the data
